@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nevman
+- 👋 Hi, I’m SARAH CLAYTON
 - 👀 I’m interested in in cyber security and python is my fevorite programming language.
 - 🌱 I’m currently learning bash scripting 
 - 💞️ I’m looking to collaborate on development of security tools
